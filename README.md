@@ -1,2 +1,0 @@
-# rprogramming
-Coursera - R Programming
